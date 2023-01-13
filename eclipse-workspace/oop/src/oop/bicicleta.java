@@ -30,7 +30,7 @@ public class bicicleta {
 		piñonActual=piñon;
 	};
 	
-	//esto es un cambio
+	//esto es un cambioo
 	
 		
 	
